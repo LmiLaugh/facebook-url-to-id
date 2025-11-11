@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://www.facebook.com/nintendo",
+    "facebookId": "119240841493711",
+    "page": {
+      "name": "Nintendo",
+      "description": "Official Nintendo page"
+    }
+  },
+  {
+    "url": "https://www.facebook.com/groups/germtheory.vs.terraintheory",
+    "facebookId": "430027810407566",
+    "group": {
+      "name": "Germ Theory vs Terrain Theory",
+      "members": 10000
+    }
+  },
+  {
+    "url": "https://www.facebook.com/NintendoAmerica/videos/432168259120897/",
+    "facebookId": "432168259120897",
+    "video_home_www_related_videos_section": {
+      "related_videos": ["video1", "video2"]
+    }
+  }
+]
